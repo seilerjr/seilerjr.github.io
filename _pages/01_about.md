@@ -4,7 +4,19 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
+Who Am I?
 
-* A list item
-* Another list item
+* Computer Science Major @ Miami University
+* Minor in Political Science
+* Enjoy Web Development/Design
+* Specialized Coursework:
+** High Performance Computing (C++)
+** Object Oriented Programming (Java)
+** Database Design (SQLite / Java)
+** Algorithms
+** Introduction to Artificial Intelligence (Java)
+** Data Structures
+* Self-Taught:
+** HTML
+** CSS
+** JavaScript
