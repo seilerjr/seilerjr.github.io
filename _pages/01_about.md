@@ -10,13 +10,13 @@ Who Am I?
 * Minor in Political Science
 * Enjoy Web Development/Design
 * Specialized Coursework:
-* * High Performance Computing (C++)
-* * Object Oriented Programming (Java)
-* * Database Design (SQLite / Java)
-* * Algorithms
-* * Introduction to Artificial Intelligence (Java)
-* * Data Structures
+  * High Performance Computing (C++)
+  * Object Oriented Programming (Java)
+  * Database Design (SQLite / Java)
+  * Algorithms
+  * Introduction to Artificial Intelligence (Java)
+  * Data Structures
 * Self-Taught:
-* * HTML
-* * CSS
-* * JavaScript
+  * HTML
+  * CSS
+  * JavaScript
